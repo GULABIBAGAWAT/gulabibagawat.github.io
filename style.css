@@ -2,3 +2,5 @@
 
 /* Gulabi Bagawat identity accents */
 .hero-grain{background:radial-gradient(ellipse at 65% 40%,#9c3976 0%,transparent 62%),linear-gradient(115deg,#3c112e,#772d58)}.brand-accent,.footer-brand span{color:#d34e8b}.button-primary{background:#ffb3d2;color:#47142f}.button-primary:hover{background:#ffcee1}.hero h1 em{color:#ffbad5}.img-geopolitics{background-image:url("https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=1200&q=80")}.avatar-placeholder{background:linear-gradient(135deg,#f9c5dc,#e98bb7)}
+
+.contribution-section{isolation:isolate}.contribution-section .closing-art{z-index:-1;pointer-events:none}.contribution-section>p{max-width:720px;margin:0 auto 20px;line-height:1.9}.contribution-section .button-primary{margin-top:10px}.contribution-section .contribution-email{margin:20px auto 10px}.contribution-email a{text-decoration:underline;text-underline-offset:4px}.contribution-section small{display:block;font-size:11px;color:#ffcee3}
