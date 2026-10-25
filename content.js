@@ -7,7 +7,7 @@ const publications = [
     "author": "Soumya Sharma",
     "date": "25 October 2026",
     "readTime": "3 min read",
-    "image": "https://images.unsplash.com/photo-1494412519320-aa613dfb7738?auto=format&fit=crop&w=1000&q=80",
+    "image": "women-city.webp",
     "description": "Gender, safety and the restrictions we have learned to call protection",
     "body": [
       "A woman deciding whether to take an evening walk should not have to calculate which roads are safe, what time she must return or whether her clothes will invite comment. Yet for many women, ordinary choices are still treated as risks to be managed. A visit to a neighbourhood park, a walk home from work or a few minutes on the terrace can become the subject of family instructions and public scrutiny. The restrictions are often presented as concern for her safety. The effect, however, is to reduce her freedom.",
@@ -19,7 +19,8 @@ const publications = [
       "Meaningful change requires more than advice to be careful. Well-lit streets, dependable public transport, responsive complaint systems and accountable institutions can make everyday spaces safer. So can schools and families that teach boys and men about consent, respect and responsibility. Workplaces need fair hiring, credible grievance procedures, parental support and a culture in which caregiving is not treated as a woman’s task alone.",
       "Women should not be asked to choose between dignity and independence, or safety and visibility. The measure of a fair society is not how strongly it claims to protect women, but how confidently women can inhabit its classrooms, offices, streets and parks on their own terms. The right to public life belongs to them, after sunset as much as before it."
     ],
-    "pdf": ""
+    "pdf": "",
+    "href": "women-and-the-city.html"
   },
   {
     "id": 2,
@@ -29,7 +30,7 @@ const publications = [
     "author": "Soumya Sharma",
     "date": "25 October 2026",
     "readTime": "3 min read",
-    "image": "https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=1000&q=80",
+    "image": "student-dissent.webp",
     "description": "The case for reform, peaceful dissent and political consistency",
     "body": [
       "A student protest can begin with a straightforward demand: fair examinations, accountable institutions or a better education system. Such demands matter because students live with the consequences of administrative failures for years. A delayed recruitment cycle can disrupt plans for work; an examination irregularity can destroy trust in a process that claims to reward effort. Dissent gives those concerns a public voice when formal channels have failed to respond.",
@@ -42,7 +43,8 @@ const publications = [
       "Governments have responsibilities of their own. They should respond to grievances openly, investigate credible complaints and use coercive measures only when necessary and lawful. When students raise legitimate concerns, silence or excessive force can deepen mistrust. Peaceful criticism is not an administrative inconvenience to be managed away; it is a channel through which institutions can discover where they are failing.",
       "A protest succeeds in a deeper sense when it makes an issue harder to ignore and a solution easier to understand. Students should not be forced to choose between demanding reform and thinking independently. Their strongest contribution to public life may be precisely that combination: the courage to question authority, and the judgment to question their own side as well."
     ],
-    "pdf": ""
+    "pdf": "",
+    "href": "student-dissent.html"
   },
   {
     "id": 3,
@@ -52,7 +54,7 @@ const publications = [
     "author": "Soumya Sharma",
     "date": "25 October 2026",
     "readTime": "3 min read",
-    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1000&q=80",
+    "image": "human-solidarity.webp",
     "description": "Why concern for minorities must cross borders and political loyalties",
     "body": [
       "Public outrage can travel astonishing distances. A video from another country may provoke marches, statements and urgent calls for justice. Yet violence or intimidation closer to home, or across a neighbouring border, can receive far less attention. The unevenness raises an uncomfortable question: do we defend human rights as a principle, or do we defend them most loudly when the victims fit a cause we already support?",
@@ -65,6 +67,7 @@ const publications = [
       "There is a difference between solidarity and spectacle. Solidarity listens to the people affected, asks what protection they need and supports institutions capable of providing it. Spectacle uses suffering to prove that another group is cruel or another ideology is dishonest. One may generate an immediate reaction online; the other has a better chance of helping people in real life.",
       "Human rights will always be discussed in a world shaped by interests, loyalties and imperfect information. Consistency does not require identical reactions to every event. It requires the same moral starting point: violence against civilians is wrong, discrimination should be challenged and allegations must be examined fairly. A principle has little value if it disappears when the victim becomes politically inconvenient."
     ],
-    "pdf": ""
+    "pdf": "",
+    "href": "human-rights-solidarity.html"
   }
 ];
